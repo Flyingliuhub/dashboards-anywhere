@@ -4,12 +4,19 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 
 ## Current Maintainers
 
-| Maintainer     | GitHub ID                                           | Affiliation |
-| -------------- | --------------------------------------------------- | ----------- |
-| Huan Jiang     | [seraphjiang](https://github.com/seraphjiang)       | Amazon      |
-| Tao Liu        | [Flyingliuhub](https://github.com/Flyingliuhub)     | Amazon      |
-| Lu Yu          | [BionIT](https://github.com/BionIT)                 | Amazon      |
-| Yan Zeng       | [zengyan-amazon](https://github.com/zengyan-amazon) | Amazon      |
+| Maintainer       | GitHub ID                                           | Affiliation |
+| ---------------- | --------------------------------------------------- | ----------- |
+| Huan Jiang       | [seraphjiang](https://github.com/seraphjiang)       | Amazon      |
+| Tao Liu          | [Flyingliuhub](https://github.com/Flyingliuhub)     | Amazon      |
+| Lu Yu            | [BionIT](https://github.com/BionIT)                 | Amazon      |
+| Yan Zeng         | [zengyan-amazon](https://github.com/zengyan-amazon) | Amazon      |
+| Emma Jin         | [yujin-emma](https://github.com/yujin-emma)         | Amazon      |
+| Ella Zhu         | [zhyuanqi](https://github.com/zhyuanqi)             | Amazon      |
+| Zilong Xia       | [ZilongX](https://github.com/ZilongX)               | Amazon      |
+| Bandini Bhopi    | [bandinib-amzn](https://github.com/bandinib-amzn)   | Amazon      |
+| Xinrui Bai       | [xinruiba](https://github.com/xinruiba)             | Amazon      |
+| Girish Cirivella | [girish-aws-pro](https://github.com/girish-aws-pro) | Amazon      |
+| Cong Wang        | [conjwang](https://github.com/CCongWang)            | Amazon      |
 
 
 ## Emeritus
